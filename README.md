@@ -1,4 +1,4 @@
 # WiFi-Jamer
 
-''' bash''' ajaka
-'''
+'''bash''' ajaka
+'''bash'''
